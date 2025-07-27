@@ -32,25 +32,18 @@ Before you begin, ensure you have the following installed:
 
 3. Install dependencies:
    ```bash
-   npm install
-   ```
-   or
-   ```bash
-   yarn install
+   npm install expo
    ```
 
 4. Set up your environment:
-   - For Android: Ensure an emulator is running or a device is connected.
-   - For iOS: Ensure Xcode is configured.
+   - For Android: Ensure an emulator or ExpoGo.
+   - For iOS: you can use ExpoGo or Xcode.
 
-5. Run the app:
+5. Run the app using ExpoGo on both Android and iOS:
    ```bash
-   npx react-native run-android
+   npx expo start
    ```
-   or
-   ```bash
-   npx react-native run-ios
-   ```
+  
 
 ## Usage
 
