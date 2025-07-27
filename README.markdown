@@ -1,6 +1,6 @@
 # Todo App
 
-A simple and intuitive Todo application built with React Native. This app allows users to create, manage, and track their tasks on the go.
+A simple Todo application built with React Native. This app allows users to create, manage, and track their tasks on the go.
 
 ## Features
 
@@ -56,23 +56,6 @@ Before you begin, ensure you have the following installed:
 
 1. Launch the app on your emulator or device.
 2. Add a new task by entering a title and optional description in the input fields.
-3. Tap the "Add Task" button to save the task.
+3. Tap the "plus icon" button to save the task.
 4. Mark tasks as completed by tapping a checkbox.
 5. Delete tasks by tapping the delete icon next to each task.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or feedback, reach out to [vignesh61f1](https://github.com/vignesh61f1).
